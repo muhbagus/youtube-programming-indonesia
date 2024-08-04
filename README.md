@@ -1,4 +1,4 @@
-# Daftar Channel Youtube Programming & Teknologi Indonesia 🇮🇩
+# Daftar Channel Youtube Programming & Teknologi Indonesia
 
 #### Tutorial - General (Frontend & Backend)
 
